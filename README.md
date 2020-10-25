@@ -5,5 +5,5 @@ Tenho experiência de mais de cinco anos em Photoshop, sou certificado pelo Goog
 
 Sou estudante de ciência da computação na Universidade Franciscana e estou no segundo semestre.
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=mauriciopbraga&count_private=true&line_height=21&show_icons=true&hide_border=true"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciopbraga&layout=compact&card_width=250&hide_border=true"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mauriciopbraga&count_private=true&line_height=40&show_icons=true&hide_border=true"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciopbraga&layout=compact&card_width=250&hide_border=true&layout=compact"/>

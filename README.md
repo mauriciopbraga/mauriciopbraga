@@ -16,7 +16,5 @@ Sou estudante de ciência da computação na Universidade Fransiscana e estou no
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
-### GitHub Stats
-
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mauriciopbraga&count_private=true&line_height=21&show_icons=true&hide_border=true"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciopbraga&layout=compact&card_width=250&hide_border=true"/>

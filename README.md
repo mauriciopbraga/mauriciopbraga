@@ -1,5 +1,4 @@
-##  Olá, mundo! Sou o Mauricio!
-
+##  Olá, mundo! Sou o Mauricio <img src="https://i.imgur.com/M5va6Uv.gif" width="25px">
 Atualmente trabalho como designer gráfico / desktop publisher nas empresas [Beagle Ship](https://beagleship.com.br) e [Bite 'n Grow](https://www.biteandgrow.com.br).
 
 Tenho experiência de mais de cinco anos em Photoshop, sou certificado pelo Google Carrers como analista de automação em TI com Python e também tenho conhecimento em desenvolvimento web.
